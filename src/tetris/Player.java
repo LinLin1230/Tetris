@@ -228,7 +228,7 @@ public class Player extends Thread
 	public void run()
 	{
 		try {
-			this.sleep(Data.dealy);
+			this.sleep(Data.delay);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

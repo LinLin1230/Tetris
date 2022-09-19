@@ -15,7 +15,7 @@ public class TetrisTimer extends Thread
 		{			
 			try {
 				if(Data.player==1)
-					this.sleep(Data.dealy);
+					this.sleep(Data.delay);
 				else
 					this.sleep(1000);
 			} catch (InterruptedException e) {

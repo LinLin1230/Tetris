@@ -1,7 +1,6 @@
 package tetris;
 import java.awt.Color;
 import java.awt.Graphics;
-
 import javax.swing.*;
 public class TetrisPanel extends JPanel
 {

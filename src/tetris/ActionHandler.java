@@ -39,15 +39,15 @@ public class ActionHandler implements KeyListener
 		}
 		if(e.getKeyChar() == 'j')
 		{
-			Data.dealy = 1000;
+			Data.delay = 1000;
 		}
 		if(e.getKeyChar() == 'k')
 		{
-			Data.dealy = 100;
+			Data.delay = 100;
 		}
 		if(e.getKeyChar() == 'l')
 		{
-			Data.dealy = 10;
+			Data.delay = 10;
 		}
 		
 	}

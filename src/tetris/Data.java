@@ -8,7 +8,7 @@ public class Data
 	static Block blockNext;
 	static int score;
 	static int player=0;
-	static int dealy=10;
+	static int delay =10;
 	static boolean pause=false;
 	public static void initial()
 	{
@@ -71,7 +71,7 @@ public class Data
 			break;
 		}
 	}
-	public static void reset()//ÖØÖÃ
+	public static void reset() //reset
 	{
 		for(int i=0;i<22;i++)
 			for(int j=0;j<10;j++)

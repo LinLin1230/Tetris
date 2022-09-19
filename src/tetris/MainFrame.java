@@ -1,8 +1,7 @@
 package tetris;
 import java.awt.Toolkit;
-import java.awt.Frame;
 import javax.swing.*;
-import javax.swing.Timer;
+
 
 public class MainFrame extends JFrame
 {

@@ -35,7 +35,7 @@ public class Block implements Cloneable
 			for(int j=0;j<10;j++)
 				tempMatrix[i][j] = basicMatrix[i][j];
 		
-		//是否到底
+		// whether to the bottom
 		boolean boo = true;
 		for(int i=0;i<4;i++)
 		{
@@ -85,7 +85,7 @@ public class Block implements Cloneable
 			position_x++;
 			MainFrame.refresh();
 		}
-		//是否到顶
+		// whether end?
 		for(int i=0;i<2;i++)
 		{
 			boo=true;
