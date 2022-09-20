@@ -1,3 +1,3 @@
 # Tetris
 
-![image](https://user-images.githubusercontent.com/20986755/191003906-7318249f-7dbf-4a1a-9c39-6ec231ff0cb9.png)
+![image](https://user-images.githubusercontent.com/20986755/191004356-b1c6e7f3-5c06-4c33-94d7-b5dd6d634302.png)
